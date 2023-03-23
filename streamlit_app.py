@@ -1,4 +1,4 @@
-fimport streamlit
+import streamlit
 
 streamlit.title('Breakfast Favorites')
 
